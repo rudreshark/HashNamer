@@ -1,5 +1,3 @@
-Here is the **entire README** in a single block – ready to copy and paste directly into your `README.md` file on GitHub.
-
 ```markdown
 # HASHNAMER v4
 
