@@ -224,11 +224,6 @@ The author assumes no liability for any damage caused by its use.
 This project is released under the MIT License. See [LICENSE](LICENSE) for details.
 ```
 
-## Demo proofs
-
-<img width="1356" height="768" alt="image" src="https://github.com/user-attachments/assets/4e652c67-f088-43a6-a239-e87144c24dc0">
-------------------
-<img width="1366" height="749" alt="image" src="https://github.com/user-attachments/assets/059bf994-9d94-4792-bfcd-1b33153bf7d0" />
----------------------------
-<img width="1366" height="767" alt="image" src="https://github.com/user-attachments/assets/850d2903-8a90-43e8-97d5-909a5652b817" />
-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/264422d4-2972-4824-b61f-63e1960d6f95" />
+<img width="1360" height="487" alt="image" src="https://github.com/user-attachments/assets/db2961ba-a6f6-44a8-995a-7c92b11eef9a" />
+<img width="1353" height="767" alt="image" src="https://github.com/user-attachments/assets/04ed4a21-57b0-44cb-b645-4c0a3980b8ba" />
